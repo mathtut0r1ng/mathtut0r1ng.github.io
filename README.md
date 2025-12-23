@@ -4,6 +4,10 @@ Credits can be located [here.](credits.md)
 
 This is the changelog of mathtutor1ng in order from newest (top) to oldest (bottom).
 
+**December 23. 2025**
+---
+- Added the missing games
+
 **December 22, 2025**
 ---
 - Added a butt ton more movies
