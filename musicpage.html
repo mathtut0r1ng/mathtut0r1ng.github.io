@@ -3,7 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="mathtutor1ng" />
+    <meta name="keywords" content="games, unblocked games, minecraft, mathtutor1ng, math tutoring, math" />
     <title>mathtutor1ng</title>
+    <meta property="og:locale" content="en-US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="mathtutor1ng" />
+    <meta property="og:description" content="Unbl*cked games site with games, movies, tv shows, music, and books! Join the discord! https://discord.gg/GBD5qrURQv" />
     <link rel="icon" type="image/png" href="favicon.png">
     <style>
         * {
@@ -14,7 +20,7 @@
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #0f0f1e 0%, #1a1a2e 100%);
+            background: linear-gradient(135deg, #08081b 0%, #00007a 100%);
             min-height: 100vh;
             display: flex;
             flex-direction: column;
@@ -51,6 +57,10 @@
             margin: 30px 0;
             line-height: 1.6;
             animation: fadeIn 1.5s ease;
+        }
+
+        .description p:first-child::after {
+            content: ', and listen to music';
         }
 
         .features {
@@ -148,11 +158,6 @@
                 opacity: 1;
                 transform: translateY(0);
             }
-        }
-
-        @keyframes bounce {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-20px); }
         }
     </style>
 </head>
