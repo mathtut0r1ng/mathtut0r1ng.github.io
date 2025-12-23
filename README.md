@@ -1,6 +1,13 @@
+Credits can be located [here.](credits.md)
+
 # Changelog
 
-This is the changelog of mathtutor1ng in order from newest to oldest.
+This is the changelog of mathtutor1ng in order from newest (top) to oldest (bottom).
+
+**December 22, 2025**
+---
+- Added a butt ton more movies
+- Added The Amazing World of Gumball Season 1
 
 **November 21, 2025**
 ---
