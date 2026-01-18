@@ -26,7 +26,7 @@ This is the changelog of mathtutor1ng in order from newest (top) to oldest (bott
 ---
 - Added Five Nights At Freddys 3D
 - Added Clash Royale
-- Cheese Chompers 3D (Requested by @eduardo.turtle1234 on TikTok)
+- Cheese Chompers 3D (Requested by [@eduardo.turtle1234](https://www.tiktok.com/@eduardo.turtle1234) on TikTok)
 
 **October 28, 2025**
 ---
