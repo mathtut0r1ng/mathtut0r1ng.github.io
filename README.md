@@ -1,4 +1,6 @@
-Credits can be located [here.](credits.md)
+# PLEASE DO NOT DMCA THIS, NO ASSETS ARE HOSTED HERE
+
+## Credits can be located [here.](credits.md)
 
 # Changelog
 
